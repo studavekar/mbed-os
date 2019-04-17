@@ -4725,7 +4725,8 @@
             "SERIAL",
             "SLEEP",
             "SPI",
-            "SPISLAVE"
+            "SPISLAVE",
+            "USTICKER"
         ]
     },
     "MCU_NRF51_16K_BASE": {
